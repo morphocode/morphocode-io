@@ -1,0 +1,3 @@
+[submodule "mapping-urban-data"]
+	path = mapping-urban-data
+	url = https://github.com/morphocode/mapping-urban-data
